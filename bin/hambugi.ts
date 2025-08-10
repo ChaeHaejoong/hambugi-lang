@@ -5,7 +5,6 @@ import { Interpreter } from "../src/interpreter";
 const startToken = "내일도 햄부기 먹자";
 const endToken = "알겠어...... 햄부기 혼자 먹을게";
 
-// 명령어 리스트 (길이 내림차순 유지)
 const commands = [
   "햄부기 온앤 온을 차려오거라.",
   "햄부기 온앤 온을 차려오라고 하지않았느냐.",
