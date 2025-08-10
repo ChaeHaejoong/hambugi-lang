@@ -1,0 +1,17 @@
+{
+  "name": "hambugi-lang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hambugi": "./dist/bin/hambugi.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.2.1"
+  }
+}
